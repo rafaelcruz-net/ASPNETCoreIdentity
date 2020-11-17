@@ -1,1 +1,3 @@
 # ASPNETCoreIdentity
+
+##Sonar
